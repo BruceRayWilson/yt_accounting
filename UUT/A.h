@@ -2,7 +2,7 @@
 #define ACCOUNTING_HPP
 
 #include <string>
-#include "Calculator.hpp" // Include the Calculator class
+#include "stubs/Calculator.hpp" // Include the Calculator class
 
 class Accounting {
 private:
